@@ -1,0 +1,36 @@
+
+body{
+    background-image:url(/mjmj.jpg);background-repeat: no-repeat;background-position: right; 
+}
+#heading {
+  border-style: dashed; width: fit-content;
+    background-color: yellow;
+    opacity: 1;
+    color: blue;
+    ;
+}
+
+#Heading2 {
+    background-color: blue;
+    opacity: 1;
+    color: yellow;
+    height: 200px ; width: 300px;
+   
+   }
+.para {
+    background-color: yellow;
+    opacity: 1;
+    color: black;
+    height: 200px; width: 300px;
+}
+.pera {
+    background-color: yellowgreen;
+    opacity: 1;
+    color: blue;
+    height: 200px; width: 300px;
+}
+.abc{
+   border-style: dashed;width: fit-content;
+   border-width: 12px;
+   border-color: red;
+}

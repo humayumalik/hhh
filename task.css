@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* navbar */
+#navbar{
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+#link { color: aliceblue; font-size: 50px; text-decoration: none;
+}
+.boxmenu{
+    height: 20px;
+    /* width: 30%; */
+    color: aliceblue;
+    text-decoration: none;
+  margin-right: 15px;
+    font-size: 15px;  
+    display: flex;
+    margin-top: 30px;
+    gap: 30px;
+    list-style-type: none;
+}
+.boxmenu li:hover { background-color: rgb(255, 226, 226); color: aquamarine; }
+/* second portion  */

@@ -1,0 +1,23 @@
+*{
+ padding: 0px;
+ margin: 0px;
+ box-sizing: border-box;
+}
+/* #shadow{ */
+    /* background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-top: 80px; */
+    /* transform: rotate(10deg);
+    transform: rotate(45deg);
+    transform: rotate(170deg); */
+/* } */
+/* #shadow:hover{
+    transform: scale(3.4);
+    transform: skew(45deg); 
+     transform: scale(2);
+     background-color: red;
+} */
+#shadow{
+}

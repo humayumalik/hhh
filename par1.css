@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid black;
+    background-color: grey;
+    height: 1000px;
+    background: url(/mjmj.jpg) no-repeat fixed;
+    background-size: 95% 95%;
+    
+    
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border: 2px solid blueviolet;
+    margin: 4px;
+    display: inline-block;
+    background-color: pink;
+    background: url(./mjmj.jpg) ;
+}
+#box3{
+    position: absolute;
+    left: 0px;
+    top: 480px;
+}
+#box2{
+    position: absolute;
+    right: 0px;
+}
+#box4{
+    position: absolute;
+    right: 0px;
+    top: 480px;
+}
+#box6{
+    position: absolute;
+    top: 250px;
+    right: 200px;
+}
+#box5{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+/* {
+ background: url(./mjmj.jpg);
+ no-repeat fixed right: ;
+} */

@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    border: 2px solid black;
+    width: 1000px;
+    margin: auto
+}
+img{
+    width: 200px;
+    display: block;
+  
+    margin: auto;
+}
+#div1{
+    border: 1px solid blue;
+    background-color: grey;
+    width: 1200px;
+    margin: 20px auto;
+}
+.box{
+    border: 1px solid blue;
+    background-color: gray;
+    margin: 4px;
+    width: 33%;
+    display: inline-block;
+}

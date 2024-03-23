@@ -1,0 +1,24 @@
+body{
+    background:url(/mjmj.jpg) center top no-repeat ; 
+}
+
+.div {
+    height: 300px;width: 300px;
+    background-color: cyan;
+    color: blue;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+   
+  
+
+
+}
+.div1 {
+    height: 300px;width: 300px;
+    background-color: cyan;
+    color: blue;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
